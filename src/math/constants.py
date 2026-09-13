@@ -1,0 +1,2 @@
+EPS = 1e-12
+SMALL_ANGLE_EPS = 1e-8
